@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">列表控件测试</string>
+    <string name="fruit_apple">苹果</string>
+    <string name="fruit_banana">香蕉</string>
+    <string name="fruit_orange">橘子</string>
+    <string name="fruit_watermelon">西瓜</string>
+    <string name="fruit_pear">梨子</string>
+    <string name="fruit_grape">葡萄</string>
+    <string name="fruit_pineapple">菠萝</string>
+    <string name="fruit_strawberry">草莓</string>
+    <string name="fruit_cherry">樱桃</string>
+    <string name="fruit_mango">芒果</string>
+</resources>

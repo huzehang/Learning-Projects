@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecyclerViewTest</string>
+    <string name="fruit_apple">Apple</string>
+    <string name="fruit_banana">Banana</string>
+    <string name="fruit_orange">Orange</string>
+    <string name="fruit_watermelon">Watermelon</string>
+    <string name="fruit_pear">Pear</string>
+    <string name="fruit_grape">Grape</string>
+    <string name="fruit_pineapple">Pineapple</string>
+    <string name="fruit_strawberry">Strawberry</string>
+    <string name="fruit_cherry">Cherry</string>
+    <string name="fruit_mango">Mango</string>
+</resources>
